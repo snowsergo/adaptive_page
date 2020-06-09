@@ -1,0 +1,12 @@
+@import url(__city/__city.css);
+@import url(__container/__container.css);
+@import url(__image/__image.css);
+@import url(__item/__item.css);
+@import url(__title/__title.css);
+
+
+.emblem{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1184px;
+}

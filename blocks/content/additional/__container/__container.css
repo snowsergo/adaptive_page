@@ -1,0 +1,9 @@
+.additional__container{
+    margin:72px auto 0 auto;
+    margin-right: auto;
+    max-width: 1184px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}

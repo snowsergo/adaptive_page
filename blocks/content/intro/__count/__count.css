@@ -1,0 +1,11 @@
+.intro__count{
+    margin:0;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+@media screen and (max-width:767px){
+    .intro__count{
+        line-height: 19px;
+    }
+}

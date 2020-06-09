@@ -1,0 +1,16 @@
+@import url(__columns/__columns.css);
+@import url(__coord/__coord.css);
+@import url(__link/__link.css);
+@import url(__links/__links.css);
+@import url(__map/__map.css);
+@import url(__text/__text.css);
+@import url(__title/__title.css);
+@import url(__url/__url.css);
+
+.barentsburg{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1184px;
+    display:flex;
+    flex-direction: column;
+}

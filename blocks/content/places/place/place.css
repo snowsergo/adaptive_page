@@ -1,0 +1,35 @@
+@import url(__image/__image.css);
+@import url(__text/__text.css);
+@import url(__title/__title.css);
+@import url(__url-heading/__url-heading.css);
+@import url(__url/__url.css);
+@import url(__website/__website.css);
+
+.place{
+    margin-top:72px;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 60px;
+}
+
+@media screen and (max-width:640px){
+    .place{
+        display:flex;
+        flex-direction: column;
+        margin-top:48px;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1279px){
+    .place{
+        grid-column-gap: 32px;
+        grid-row-gap: 40px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1023px){
+    .place{
+        grid-column-gap: 28px;
+    }
+}

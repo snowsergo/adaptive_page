@@ -1,0 +1,13 @@
+.video__image{
+    position:absolute;
+    width:100%;
+    height:100%;
+    opacity:0.8;
+    border-radius: 5px; 
+}
+.video__item:hover .video__image{
+    opacity:0.3;
+}
+
+
+

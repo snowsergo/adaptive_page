@@ -1,0 +1,93 @@
+@import url(../blocks/header/header.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/link/link.css);
+
+@font-face {
+    src: url("../fonts/Inter-Regular.woff2") format("woff2");
+    font-family: 'Inter';
+    font-weight: normal;
+}
+@font-face {
+    src: url("../fonts/Inter-ExtraBold.woff2") format("woff2");
+    font-family: 'Inter';
+    font-weight: 900;
+}
+
+.page-wrapper{
+      width:100%;
+      background-color:#2A2C2F;
+}
+
+
+.page {
+    max-width: 1440px;    
+    margin: 0 auto;
+    background-color:#2A2C2F;
+    color:#FFFFFF;
+    font-family:'Inter', Arial, Helvetica, sans-serif;
+}
+
+
+/*.content{
+    border:blueviolet solid 1px;
+}
+.lead{
+    border:red solid 1px;
+}
+.intro{
+    border:green solid 1px;
+}
+
+.video{
+    border:greenyellow solid 1px;
+}
+
+.additional{
+    border:orangered solid 1px;
+}
+
+.comments{
+    border:orchid solid 1px;
+}
+
+.emblem{
+    border:palegreen solid 1px;
+}
+.cover{
+    border:palegreen solid 1px;
+}
+.footer{
+    border:orchid solid 1px;
+}
+.header{
+    border:orchid solid 1px;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

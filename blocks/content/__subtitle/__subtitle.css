@@ -1,0 +1,33 @@
+.content-subtitle{
+    margin:48px auto 0 auto;
+    max-width:640px;
+    text-align: center;
+    font-Size: 24px;
+    font-weight: normal;
+    line-height: 34.85px;    
+}
+
+@media screen and (max-width:375px){
+    .content-subtitle{
+        font-size: 16px;
+        line-height: 23px;
+        margin-top:16px;
+        margin-left:16px;
+        margin-right:16px;
+    }
+}
+
+@media screen and (min-width:376px) and (max-width:767px){
+    .content-subtitle{
+        font-size: 24px;
+        line-Height: 35px;
+        margin-top:16px;
+        margin-left:16px;
+        margin-right:16px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1023px){
+    .content-subtitle{
+        margin-top:24px;
+    }
+}

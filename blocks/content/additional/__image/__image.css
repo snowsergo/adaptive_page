@@ -1,0 +1,9 @@
+.additional__image{
+    position: absolute;
+    opacity:0.8;
+    border-radius: 5px;
+ }
+ .additional__item:hover .additional__image{
+     opacity: 0.3;
+ }
+ 

@@ -1,0 +1,13 @@
+.additional__item{
+    width:284px;
+    min-height:330px;
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    background-color:black;
+    border-radius: 5px;
+}
+/*
+Нужно исправить:
+    Замените height на min-height (исправил)
+*/
